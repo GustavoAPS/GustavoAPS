@@ -1,34 +1,24 @@
-### Hello, how is everything? my name is Gustavo i am a software engineering student and i am interested in studying and working with python and game development. <3         
+### Hello, my name is Gustavo. I am a software engineer, and this is my Git. Feel free to use anything that is useful for you within these repos.
 
 
 <div>
   <a href="https://github.com/GustavoAPS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAPS&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   </a>
-</div>
+</div>  
   
-  🔭 I’m currently working on: 
-  * Python projects
-  * Game development
-  * Unity.
+### 🧠 Things I Always Need
 
-  🌱 I’m currently learning:
-<div> 
-  <a target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-</div>
-  
-  
-  🧠 What I already know:
-<div> 
-  <a target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
-</div>
+| Technology | Repository |
+|------------|------------|
+| ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) | [C Repository](#) |
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | [C++ Repository](#) |
+| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) | [C# Repository](#) |
+| ![Unity](https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white) | [Unity Repository](#) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | [React Repository](#) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | [Python Repository](#) |
+| ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) | [CSS Repository](#) |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) | [HTML Repository](#) |
+
 
   📫 How to reach me: gugustavo137@gmail.com
-
-  ⚡ Fun fact: I'm a sculptor when I'm not programming.
- 
