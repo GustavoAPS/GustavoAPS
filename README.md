@@ -8,8 +8,8 @@
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Study Repo | [JavaScript](https://github.com/GustavoAPS/Javascript) |
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | Project | [React Apps](https://github.com/GustavoAPS/react) |
 | ![Django Rest](https://img.shields.io/badge/-Django%20Rest-092E20?style=flat&logo=django&logoColor=white) | Project | [Django Rest](https://github.com/GustavoAPS/DjangoRest) |
-| ![⌨️ Shortcuts](https://img.shields.io/badge/-Shortcuts-005F99?style=flat&logo=windows-terminal&logoColor=white) | Cheat Sheet | [Knowledge/Shortcuts](https://github.com/GustavoAPS/Knowledge/blob/main/shortcuts.md) |
-| ![🐳 Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | Cheat Sheet | [Knowledge/Docker](https://github.com/GustavoAPS/Knowledge/tree/main/Docker) |
+| ![⌨️ Shortcuts](https://img.shields.io/badge/-Shortcuts-005F99?style=flat&logo=windows-terminal&logoColor=white) | Cheat Sheet | [Shortcuts](https://github.com/GustavoAPS/Knowledge/blob/main/Shortcuts/README.md) |
+| ![🐳 Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | Cheat Sheet | [Docker](https://github.com/GustavoAPS/Knowledge/blob/main/Docker/README.md) |
 
 
 
